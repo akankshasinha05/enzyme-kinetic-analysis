@@ -1,0 +1,4 @@
+Condition,Apparent_Vmax_uM_min,Apparent_Km_mM,Fit_R2
+Control (Uninhibited),52.66,0.459,1.0
+Competitive Inhibitor (+ Pi),52.37,1.248,1.0
+Non-Competitive Inhibitor (+ EDTA),26.33,0.458,1.0
